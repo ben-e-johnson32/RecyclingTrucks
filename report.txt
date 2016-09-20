@@ -1,0 +1,12 @@
+House 0 recycled 1 crate.
+House 1 recycled 1 crate.
+House 2 recycled 1 crate.
+House 3 recycled 1 crate.
+House 4 recycled 1 crate.
+House 5 recycled 1 crate.
+House 6 recycled 2 crates.
+House 7 recycled 2 crates.
+Total crates recycled: 10
+Houses that recycled the most:
+House 6: 2 crates.
+House 7: 2 crates.
